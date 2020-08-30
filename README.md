@@ -4,12 +4,15 @@
 - Consultant @ Expleo Stockholm AB
 - Located in Stockholm
 
-## Languages:
-<img src="https://github.com/Tabofa/tabofa/blob/master/Fsharp_logo.png?raw=true" width="26px" align="left" alt="F#" /> 
+## Languages and Tools:
+<img src="https://github.com/Tabofa/tabofa/blob/master/Fsharp_logo.png" width="26px" align="left" alt="F#" /> 
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/csharp.png" width="26px" align="left" alt="C#" />
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/java.png" width="26px" align="left" alt="Java" />
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/javascript.png" width="26px" align="left" alt="JavaScript" />
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/selenium.png" width="26px" align="left" alt="Selenium Webdriver" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/rider-icon.png" width="26px" align="left" alt="JetBrains Rider" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/vscode-icon.png" width="26px" align="left" alt="VS Code" />
+
 <br />
 <br />
 
