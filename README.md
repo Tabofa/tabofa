@@ -13,6 +13,7 @@
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/rider-logo.png" width="26px" align="left" alt="JetBrains Rider" />
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/vscode-logo.png" width="26px" align="left" alt="VS Code" />
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/git-logo.png" width="26px" align="left" alt="git" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/postman-logo.png" width="26px" align="left" alt="git" />
 
 <br />
 <br />
