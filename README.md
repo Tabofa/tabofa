@@ -5,11 +5,11 @@
 - Located in Stockholm
 
 ## Languages:
-<img src="media/Fsharp_logo.png" width="26px" align="left" alt="F#" /> 
-<img src="media/csharp.png" width="26px" align="left" alt="C#" />
-<img src="media/java.png" width="26px" align="left" alt="Java" />
-<img src="media/javascript.png" width="26px" align="left" alt="JavaScript" />
-<img src="media/selenium.png" width="26px" align="left" alt="Selenium Webdriver" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/Fsharp_logo.png?raw=true" width="26px" align="left" alt="F#" /> 
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/csharp.png" width="26px" align="left" alt="C#" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/java.png" width="26px" align="left" alt="Java" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/javascript.png" width="26px" align="left" alt="JavaScript" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/selenium.png" width="26px" align="left" alt="Selenium Webdriver" />
 <br />
 <br />
 
