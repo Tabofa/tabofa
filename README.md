@@ -5,13 +5,14 @@
 - Located in Stockholm
 
 ## Languages and Tools:
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/Fsharp_logo.png" width="26px" align="left" alt="F#" /> 
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/csharp.png" width="26px" align="left" alt="C#" />
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/java.png" width="26px" align="left" alt="Java" />
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/javascript.png" width="26px" align="left" alt="JavaScript" />
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/selenium.png" width="26px" align="left" alt="Selenium Webdriver" />
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/rider-icon.png" width="26px" align="left" alt="JetBrains Rider" />
-<img src="https://github.com/Tabofa/tabofa/blob/master/media/vscode-icon.png" width="26px" align="left" alt="VS Code" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/fsharp-logo.png" width="26px" align="left" alt="F#" /> 
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/csharp-logo.png" width="26px" align="left" alt="C#" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/java-logo.png" width="26px" align="left" alt="Java" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/javascript-logo.png" width="26px" align="left" alt="JavaScript" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/selenium-logo.png" width="26px" align="left" alt="Selenium Webdriver" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/rider-logo.png" width="26px" align="left" alt="JetBrains Rider" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/vscode-logo.png" width="26px" align="left" alt="VS Code" />
+<img src="https://github.com/Tabofa/tabofa/blob/master/media/git-logo.png" width="26px" align="left" alt="git" />
 
 <br />
 <br />
