@@ -1,8 +1,16 @@
+# Jonas Hall aka tabofa
+
 ### QA engineer located in Stockholm
 
-- Technical QA engineer
-- Consultant @ Expleo Stockholm AB
-- Located in Stockholm
+- 👨‍💻 Technical QA engineer
+- 🏢 Consultant @ Expleo Stockholm AB
+- 🏠 Located in Stockholm
+- Leasure
+  - 🏔️Hiking 
+  - 🏃‍♂️Running 
+  - 🧗‍♂️Climbing 
+  - 🎧Music 
+  - ⌨️Coding
 
 ## Languages and Tools:
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/fsharp-logo.png" width="26px" align="left" alt="F#" /> 
