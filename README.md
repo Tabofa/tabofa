@@ -1,4 +1,4 @@
-# Jonas Hall aka tabofa
+# tabofa
 
 ### QA engineer located in Stockholm
 
