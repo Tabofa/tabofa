@@ -28,11 +28,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ROG Claymore RGB Backlight goes dark mode](https://tabofa.medium.com/rog-claymore-rgb-backlight-goes-dark-mode-bd09667a7188?source=rss-199cdcf8f4c4------2)
 - [Monitoring](https://tabofa.medium.com/monitoring-d9cde2a9a01f?source=rss-199cdcf8f4c4------2)
 - [JavaScript in Bookmarks](https://tabofa.medium.com/javascript-in-bookmarks-e91b13131360?source=rss-199cdcf8f4c4------2)
 - [Dockerizing a Node application](https://tabofa.medium.com/dockerizing-a-node-application-40ef5bd3686b?source=rss-199cdcf8f4c4------2)
 - [API testing using F#](https://tabofa.medium.com/api-testing-using-f-bee1dd43f692?source=rss-199cdcf8f4c4------2)
-- [Automated API testing](https://tabofa.medium.com/automated-api-testing-9f2f255a456e?source=rss-199cdcf8f4c4------2)
 <!-- BLOG-POST-LIST:END -->
 [read more...][medium]
 
