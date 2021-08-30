@@ -28,11 +28,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When should you automate?](https://tabofa.medium.com/when-should-you-automate-686fc40d49d2?source=rss-199cdcf8f4c4------2)
 - [Why do testers always get the blame?](https://medium.com/codex/why-do-testers-always-get-the-blame-af5ac3b67b8e?source=rss-199cdcf8f4c4------2)
 - [Samsung Odyssey G9 Firmware update](https://tabofa.medium.com/samsung-odyssey-g9-firmware-update-9dd9c1df769b?source=rss-199cdcf8f4c4------2)
 - [ROG Claymore RGB Backlight goes dark mode](https://tabofa.medium.com/rog-claymore-rgb-backlight-goes-dark-mode-bd09667a7188?source=rss-199cdcf8f4c4------2)
 - [Monitoring](https://tabofa.medium.com/monitoring-d9cde2a9a01f?source=rss-199cdcf8f4c4------2)
-- [JavaScript in Bookmarks](https://tabofa.medium.com/javascript-in-bookmarks-e91b13131360?source=rss-199cdcf8f4c4------2)
 <!-- BLOG-POST-LIST:END -->
 [read more...][medium]
 
