@@ -28,11 +28,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Increase your PowerLevel in PowerShell](https://medium.com/codex/increase-your-powerlevel-in-powershell-dd66143a5b0a?source=rss-199cdcf8f4c4------2)
+- [Decrease your bug count and be happy](https://medium.com/codex/yet-another-zero-bug-policy-blog-post-341cebb7b531?source=rss-199cdcf8f4c4------2)
+- [My best mistake](https://medium.com/codex/my-best-mistake-406a7b16bb62?source=rss-199cdcf8f4c4------2)
 - [The Agile Team](https://medium.com/codex/the-agile-team-9fec1d2365be?source=rss-199cdcf8f4c4------2)
 - [When should you automate?](https://medium.com/codex/when-should-you-automate-686fc40d49d2?source=rss-199cdcf8f4c4------2)
-- [Why do testers always get the blame?](https://medium.com/codex/why-do-testers-always-get-the-blame-af5ac3b67b8e?source=rss-199cdcf8f4c4------2)
-- [Samsung Odyssey G9 Firmware update](https://tabofa.medium.com/samsung-odyssey-g9-firmware-update-9dd9c1df769b?source=rss-199cdcf8f4c4------2)
-- [ROG Claymore RGB Backlight goes dark mode](https://tabofa.medium.com/rog-claymore-rgb-backlight-goes-dark-mode-bd09667a7188?source=rss-199cdcf8f4c4------2)
 <!-- BLOG-POST-LIST:END -->
 [read more...][medium]
 
