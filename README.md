@@ -3,8 +3,8 @@
 ### QA engineer located in Stockholm
 
 - 👨‍💻 Technical QA engineer
-- 🏢 Consultant @ Expleo Stockholm AB
-- 🏠 Located in Stockholm
+- 🏢 Consultant @ Yielding Quality AB
+- 🏠 Located in Sundsvall, working remote in Stockholm
 
 ## Languages and Tools:
 <img src="https://github.com/Tabofa/tabofa/blob/master/media/fsharp-logo.png" width="26px" align="left" alt="F#" /> 
